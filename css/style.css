@@ -156,8 +156,7 @@ img {
 .section {
     padding-top: 94px;
     padding-bottom: 94px;
-    margin-bottom: 94px;
-    /* margin: 0 auto; */
+    margin: 0 auto;
 } 
 
 .section-container {
@@ -396,6 +395,10 @@ img {
 .our-team {
     background: #F5F4FA;
      
+}
+
+.team {
+    margin-bottom: 94px;
 }
 
 .team-heading {
